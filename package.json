@@ -1,0 +1,38 @@
+{
+  "name": "myqui",
+  "version": "2.0.2",
+  "description": "Improved official wrapper of Qui Database",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.5.1",
+    "graceful-fs": "^4.2.4",
+    "mongoose": "^5.10.17",
+    "readline": "^1.3.0",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myqui"
+  },
+  "keywords": [
+    "aidak",
+    "qui",
+    "qui",
+    "database",
+    "sql",
+    "json",
+    "db",
+    "database",
+    "klakes",
+    "theklakes"
+  ],
+  "author": "TheKlakes",
+  "license": "Apache-2.0"
+}
